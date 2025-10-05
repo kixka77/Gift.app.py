@@ -18,7 +18,7 @@ AUDIO_SRC = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
 # ---------------------------------------------------------------------------
 
 # ---------- Styles (stronger colors + flip animation) ----------
-STYLE = f"""
+STYLE = """
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;600&display=swap');
 
